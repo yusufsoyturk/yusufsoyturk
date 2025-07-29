@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yusuf Soytürk
 #### I am MIS and 42 student 🧐
-I am a 3rd-year MIS student and a 42 Common Core student. I have knowledge of Python, C, and SQL, and I want to improve myself in these areas.
+I am a 4th-year MIS student and a 42 Common Core student. I have knowledge of Python, C, and SQL, and I want to improve myself in these areas.
 
 Skills: PYTHON / C / SQL 
 
