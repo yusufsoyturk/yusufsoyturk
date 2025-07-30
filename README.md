@@ -2,7 +2,7 @@
 #### I am MIS and 42 student 🧐
 I am a 4th-year MIS student and a 42 Common Core student. I have knowledge of Python, C, C++ and SQL, and I want to improve myself in these areas.
 
-Skills: PYTHON / C / SQL / C++
+Skills: PYTHON / C / C++ / SQL
 
 - 🌱 I’m currently learning Data Science 
 
