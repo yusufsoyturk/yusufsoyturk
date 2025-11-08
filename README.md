@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Yusuf Soytürk
-#### I am MIS and 42 student 🧐
-I am a 4th-year MIS student and a 42 Common Core student. I have knowledge of Python, C, C++ and SQL, and I want to improve myself in these areas.
+Hi there 👋, I’m Yusuf Soytürk
+4th-year MIS Student & Cadet 🧐
 
-Skills: PYTHON / C / C++ / SQL
+I am a Management Information Systems student passionate about data-driven decision-making, business analysis, and process optimization. I have hands-on experience with Python, SQL, Excel, Power BI, Jira, and Confluence and I am improving my skills in data analysis, visualization, and reporting.
 
-- 🌱 I’m currently learning Data Science 
+Skills: Python, SQL, Excel, Power BI, Jira, Confluence
+Soft Skills: Analytical Thinking, Communication, Teamwork, Agile Workflow
 
+🌱 Currently learning Business Intelligence and Advanced Data Analytics to support strategic decision-making
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yusufsoyturk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusufsoyturk/)  
 
